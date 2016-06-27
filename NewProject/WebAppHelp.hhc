@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties imagewidth="16" windowstyles="8388610" exwindowstyles="256">
+	</properties>
+	<item name="Overview" link="Overview.htm">
+	</item>
+	<item name="How Applications connect to Help" link="How_Applications_connect_to_Help.htm">
+	</item>
+	<item name="Screen Level Help" link="Screen_Level_Help.htm">
+	</item>
+	<item name="Consider using Snippets" link="Consider_using_Snippets.htm">
+	</item>
+	<item name="Windows used" link="Windows_used.htm">
+	</item>
+	<item name="Procedure">
+		<item name="Starting the WidgetMax application" link="Procedure\Starting_the_WidgetMax_application.htm">
+		</item>
+	</item>
+	<item name="Screen Level">
+		<item name="The WidgetMax Information Screen" link="Screen_Level\The_WidgetMax_Information_Screen.htm">
+		</item>
+	</item>
+</toc>
