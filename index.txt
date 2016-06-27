@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-Manual robo help
-
-
-**kkkkkkkkkk
-
-
-add text
-=======
-Manual robo help ffffffffffff
->>>>>>> origin/master
+Modificado via web
