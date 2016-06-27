@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Manual robo help
 
 
@@ -5,3 +6,6 @@ Manual robo help
 
 
 add text
+=======
+Manual robo help ffffffffffff
+>>>>>>> origin/master
