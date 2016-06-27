@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE polprojfile>
+<ppfml version="2.00" project="">
+ <windowlist defaultwindow="NewWindow">
+  <window name="NewWindow" x="5%" y="5%" width="90%" height="90%" viewtype="doublepane" workspacestyle="DEFAULT" toolbar="off" locationbar="off" menu="off" resizable="yes" statusbar="off" usecurrentwindowsettings="yes" caption="NewWindow">
+   <elements><element name="BrowseSequence" Present="no" /><element name="SearchInput" Present="no" />
+   </elements>
+   <agents defaultagent="toc">
+    <agent>toc
+    </agent>
+    <agent>ndx
+    </agent>
+    <agent>nls
+    </agent>
+   </agents>
+  </window>
+ </windowlist>
+ <contextmap>
+ </contextmap>
+ <topiclist defaulttopic="MyCompany_Portable_MP3_Player.htm">
+  <topic>MyCompany_Portable_MP3_Player.htm
+  </topic>
+  <topic>Glossary.htm
+  </topic>
+  <topic>MyCompany_Player_interactive.htm
+  </topic>
+  <topic>Beat_the_Clock!.htm
+  </topic>
+  <topic>System_Requirements.htm
+  </topic>
+  <topic>MyCompany_Player_package_contents.htm
+  </topic>
+ </topiclist>
+ <projectincludes>
+ </projectincludes>
+ <filenamemap>
+ </filenamemap>
+</ppfml>

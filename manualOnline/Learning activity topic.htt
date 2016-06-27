@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Adobe RoboHelp 8" />
+<title>Template for a learning activity topic. Uses default.css.</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-region_start type="header" style="width: 100%; position: relative;" ?>
+<p align="right">Project Name</p>
+<?rh-region_end type="header" ?><?rh-region_start type="body" ?><h2>Learning activity topics</h2>
+	<p style="background-color: #c0c0c0;">Learning activity topics can 
+	 be anything that reinforces the information you provide. These topics 
+	 can be very fun and creative. The idea is to give users another opportunity 
+	 to learn using a different format. Some examples of learning activities 
+	 include games, puzzles, and multimedia presentations. A crossword 
+	 puzzle can help users learn new terms and a scavenger hunt on the 
+	 Internet can be a fun way to learn more about searching techniques. 
+	 Be creative with learning activity topics! &#160;</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<h3>Learning Activity for .....</h3>
+	<p>Use this space to design and create a learning activity.</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<p>Include appropriate links to related topics by writing a list of 
+	 links or by adding a related topics button:</p>
+	<p>&#160;</p>
+	<p style="font-style: italic;">(Rev. 07/31/2008)</p>
+<?rh-region_end type="body" ?><?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+<p align="center">Copyright Notice / Confidentiality Statement</p>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Adobe RoboHelp 8" />
+<title>Template for a reference or appendix topic. Uses default.css.</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-region_start type="header" style="width: 100%; position: relative;" ?>
+<p align="right">Project Name</p>
+<?rh-region_end type="header" ?><?rh-region_start type="body" ?><h2>Reference topics</h2>
+	<p style="background-color: #c0c0c0;">Reference topics provide explanations 
+	 of concepts, ideas, theories and methods. This type of topic usually 
+	 contains narrative text without a lot of numbered lists, graphics, 
+	 or other design elements. Reference topics are a way to give users 
+	 that are particularly interested in a subject an in-depth view. Often, 
+	 you can think of reference topics as truly &quot;reference&quot; material, 
+	 like an appendix, encyclopedia entry, textbook chapter, or bibliography.</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<h2>Reference</h2>
+	<p>Use this space to write reference material that will provide your 
+	 users with a more in-depth view of a subject.</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<p>Include appropriate links to other topics by writing a list of links 
+	 or by adding a related topics button:</p>
+	<p>&#160;</p>
+	<p style="font-style: italic;">(Rev. 07/31/2008)</p>
+<?rh-region_end type="body" ?><?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+<p align="center">Copyright Notice / Confidentiality Statement</p>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Adobe RoboHelp 8" />
+<title>Template for a task or procedure topic. Uses default.css.</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-region_start type="header" style="width: 100%; position: relative;" ?>
+<p align="right">Project Name</p>
+<?rh-region_end type="header" ?><?rh-region_start type="body" ?><h2>Task/procedure topics</h2>
+	<p style="background-color: #c0c0c0;">Task/procedure topics are instructions, 
+	 often a series of numbered steps, that a user performs to reach a 
+	 specific outcome. Task topics can include when to perform the procedure, 
+	 who should do the procedure, any ramifications that result from doing 
+	 the procedure, all necessary prerequisites, how long the task takes 
+	 to perform, and any tools that are required. In many projects, you'll 
+	 find that the bulk of your topics are task topics. It is common to 
+	 keep task topics focused on the procedure at hand, but to include 
+	 links to other types of topics that provide greater context or more 
+	 information (such as information or reference topics).</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<h3>Performing task A .....</h3>
+	<p>Include a sentence that explains why the user would want or need 
+	 to perform the task before listing the steps to do the task. This 
+	 gives the user some context and assures them they are in the right 
+	 place.</p>
+	<p>&#160;</p>
+	<p>Give the procedure a heading and assign it a low-level heading style 
+	 (such as Heading 4 or 5). For example, write:</p>
+	<h4>To do task A:</h4>
+	<ol type="1">
+		<li class="p"><p>First step<br />
+		&#160;</p></li>
+		<li class="p"><p>Second step<br />
+		&#160;</p></li>
+		<li class="p"><p>Third step<br />
+		&#160;</p></li>
+		<li class="p"><p>Fourth step<br />
+		&#160;</p></li>
+		<li class="p"><p>Fifth step</p></li>
+	</ol>
+	<p>&#160;</p>
+	<p>Include appropriate links to other topics by writing a list of links 
+	 or by adding a related topics button:</p>
+	<p style="font-weight: bold;">&#160;</p>
+	<p>&#160;</p>
+	<p style="font-style: italic;">(Rev. 07/31/2008)</p>
+<?rh-region_end type="body" ?><?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+<p align="center">Copyright Notice / Confidentiality Statement</p>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

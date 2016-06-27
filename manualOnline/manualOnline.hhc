@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties imagewidth="16" windowstyles="8388610" exwindowstyles="256"></properties>
+	<item name="MyCompany Portable MP3 Player" link="MyCompany_Portable_MP3_Player.htm"></item>
+	<item name="Chapter 1: Setup">
+		<item name="MyCompany Player package contents" link="MyCompany_Player_package_contents.htm"></item>
+		<item name="MyCompany Player interactive" link="MyCompany_Player_interactive.htm"></item>
+		<item name="Beat the Clock!" link="Beat_the_Clock!.htm"></item>
+	</item>
+	<item name="Appendix">
+		<item name="System requirements" link="System_Requirements.htm"></item>
+	</item>
+	<item name="Glossary" link="Glossary.htm"></item>
+</toc>

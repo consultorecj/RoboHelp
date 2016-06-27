@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Adobe RoboHelp 8" />
+<title>Template for a show me or multimedia topic. Uses default.css.</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-region_start type="header" style="width: 100%; position: relative;" ?>
+<p align="right">Project Name</p>
+<?rh-region_end type="header" ?><?rh-region_start type="body" ?><h2>Show Me topics</h2>
+	<p style="background-color: #c0c0c0;">Show Me topics contain visual 
+	 images, such as screen shots of the entire user interface or screen 
+	 shots of user interface components, that support textual explanations. 
+	 Often reachable through links in task topics, Show Me topics offer 
+	 a greater level of detail for users performing a task. The most elaborate 
+	 Show Me topics contain multimedia video that truly &quot;shows&quot; 
+	 how to do a specific procedure. For example, a Show Me topic for a 
+	 graphics tool could show that in order to change a color, a user needs 
+	 to click a specific tool, then move their mouse to select a certain 
+	 color, and then click on their graphic. </p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<h3>Show Me how to .....</h3>
+	<p>Use this space to include a graphic or video file that shows the 
+	 user how to perform a certain action. You can link to your Show Me 
+	 topic from the appropriate task topic.</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<p style="font-style: italic;">(Rev. 07/31/2008)</p>
+<?rh-region_end type="body" ?><?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+<p align="center">Copyright Notice / Confidentiality Statement</p>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

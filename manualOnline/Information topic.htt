@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Adobe RoboHelp 8" />
+<title>Template for an informational topic. Uses default.css.</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-region_start type="header" style="width: 100%; position: relative;" ?>
+<p align="right">Project Name</p>
+<?rh-region_end type="header" ?><?rh-region_start type="body" ?><h2>Information topics</h2>
+	<p style="background-color: #c0c0c0;">Simply put, information topics 
+	 provide users with important facts. Information topics are critical 
+	 to your project, but do not contain task or procedural steps. Most 
+	 projects are built on a foundation of information topics and task 
+	 topics, with links leading to other types of topics. The size of information 
+	 topics can vary greatly, from short and focused to large and dense 
+	 &#160;(if a topic becomes too large, however, it is best to split 
+	 it into two or more topics). </p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<h3>Information about .......</h3>
+	<p>Use this space to provide information that is critical to your users.</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<p>&#160;</p>
+	<p>Include appropriate links to other topics by writing a list of links 
+	 or by adding a related topics button:</p>
+	<p>&#160;</p>
+	<p style="font-style: italic;">(Rev. 07/31/2008)</p>
+<?rh-region_end type="body" ?><?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+<p align="center">Copyright Notice / Confidentiality Statement</p>
+<?rh-region_end type="footer" ?>
+</body>
+</html>
